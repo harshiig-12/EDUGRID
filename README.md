@@ -5,7 +5,7 @@
   <p>
     <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Focus-Algorithms-36BCF7?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
+
   </p>
 </div>
 
